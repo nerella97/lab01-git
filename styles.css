@@ -12,3 +12,10 @@ h1 {
   border-bottom: 3px solid #0072ce;
   padding-bottom: 10px;
 }
+section {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+    border: 1px solid #ddd;
+}
